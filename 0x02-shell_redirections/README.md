@@ -1,2 +1,1 @@
-Learning about Shell permissions
-Hope to get a grip on whatever new content I learn today
+ALX task 0x02 Shell, I/O Redirections and filters
